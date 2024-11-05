@@ -1,0 +1,202 @@
+/** TAG INICIAS MAIS COMUNS**/
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+/** INICIO SEÇÃO TOPO **/
+.banner {
+    background-image: url(../img/banner-topo.jpg);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    padding: 120px 80px;
+}
+
+.top-pagina {
+    width: 100%;
+    padding: 40px;
+    max-width: 1024px;
+    margin: 70px auto;
+    text-align: center;
+    background-color: #ffffffc4;
+    border-radius: 5px;
+    box-shadow: 0 8px 32px#1f26875e;
+}
+
+.top-pagina a {
+    font-size: 30px;
+    color: #fff;
+    background-color: #3c184e;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 10px 10px;
+}
+
+.Logo-box img {
+    width: 30px;
+}
+
+h1 {
+    font-size: 70px;
+    color: #3c184e;
+    padding-bottom: 50px;
+}
+
+.Logo-box {
+    color: #3c184e;
+}
+
+.nome-ficticio {
+    font-size: 35px;
+    margin: 0 0 5px;
+}
+
+.top-pagina img {
+    width: 40px;
+    padding-left: 10px;
+}
+
+/**FINAL SECÃO TOPO**/
+
+/** INICIO SECÃO PRINCIPAL**/
+.pagina-principal {
+    padding: 120px 80px;
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+h2 {
+    font-size: 42px;
+    color: #3c184e;
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+li {
+    padding: 10px;
+    font-size: 22px;
+    color: #3c184e;
+}
+
+span {
+    font-weight: bold;
+    font-style: italic;
+}
+
+figure img {
+    box-shadow: 3px 6px 10px 6px #0000005c;
+    border-radius: 10px;
+    width: 165px;
+    margin: 30px 1px 0;
+
+}
+
+/**FINAL SECÃO PRINCIPAL**/
+
+/** INICIO SECÃO 1 REDES SOCIAS **/
+.faixa1 {
+    background: #3c184e;
+    width: 100%;
+    height: 500px;
+    margin: 0 auto;
+    padding: 120px 80px;
+    text-align: center;
+}
+
+.faixa1 img {
+    width: 100px;
+    padding: 50px 20px;
+}
+
+.faixa1 p {
+    max-width: 1024px;
+    font-size: 50px;
+    color: #fff;
+    text-align: center;
+    margin: 0 auto;
+}
+
+/** FINAL SECÃO 1 REDES SOCIAS **/
+
+/**INICIO SECÃO MARCAS**/
+.marcas {
+    padding: 120px 80px;
+    max-width: 1024px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.marcas h3 {
+    font-size: 42px;
+    color: #3c184e;
+}
+
+.foto-marcas img {
+    margin-right: 30px;
+    width: 180px;
+}
+
+/**FINAL SECÃO MARCAS**/
+
+/** INICIO SECÃO 2 REDES SOCIAS **/
+.faixa2 {
+    background: #3c184e;
+    width: 100%;
+    height: 500px;
+    margin: 0 auto;
+    padding: 120px 80px;
+    text-align: center;
+}
+
+.faixa2 img {
+    width: 100px;
+    padding: 50px 20px;
+}
+
+.faixa2 p {
+    max-width: 1024px;
+    font-size: 42px;
+    color: #fff;
+    text-align: center;
+    margin: 0 auto;
+}
+
+/** FINAL SECÃO 2 REDES SOCIAS **/
+
+/** INICIO SECÃO MAPA**/
+.Endereço {
+    padding: 120px 80px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.Endereço h3 {
+    font-size: 42px;
+    color: #3c184e;
+}
+
+.Endereço p {
+    font-size: 25px;
+    color: #3c184e;
+    padding: 50px 0 40px;
+}
+
+/** FINAL SECÃO MAPA**/
+
+/** FINAL **/
+footer {
+    background: #3c184e;
+    height: 80px;
+    padding: 30px;
+}
+
+footer p {
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+}
